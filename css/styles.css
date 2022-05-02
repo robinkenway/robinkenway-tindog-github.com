@@ -40,6 +40,7 @@ i {
   .dog-picture {
     position: relative;
     height: 40rem;
+    margin-left: 0;
     transform: rotate(0);
   }
 
